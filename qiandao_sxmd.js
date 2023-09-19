@@ -14,6 +14,7 @@ if (process.env.sxmd_host) {
 } else {
     SXMD_HOST = "www.txtnovel.vip"
     //注意: 此域名可能被墙, 你可能需要使用代理.
+    console.log("如域名变更,请百度最新域名.")
 }
 
 let account = ""
